@@ -49,7 +49,7 @@ export class FiltroProductoComponent implements OnInit {
      this.productos =this.productosOriginal;
      this.buscarProductos(valores)
      this.escribirParametrosBusquedaEnURL();
-     
+     //prueba git
     })
 
   }
